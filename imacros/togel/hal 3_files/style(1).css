@@ -1,0 +1,54 @@
+/*
+Theme Name: pakde
+Theme URI: /
+Author: pakde
+Author URI: localhost
+Description: Wordpress Theme
+Version: 1.0
+*/
+body{
+    background-color: rgb(58, 52, 52);
+    font-size: smaller;
+}
+.even{
+    background-color: transparent !important;
+}
+.odd{
+    background-color: transparent !important;
+}
+.sorting_1{
+    background-color: transparent !important;
+}
+.angka{
+    border-radius: 30px;
+    padding-left: 5px; 
+    padding-right: 5px; 
+    padding-top: 1px; 
+    padding-bottom: 1px; 
+    margin-right: 1px;
+}
+.paginate_button{
+    background-color: grey;
+}
+label{
+    color:white !important;
+}
+select{
+    color:white !important;
+}
+option{
+    color: black !important;
+}
+/* #font-sm{
+    font-size: smaller;
+} */
+
+#sdy{
+    background-color: orange;
+}
+#sgp{
+    background-color: rgb(88, 88, 231);
+}
+#hk{
+    background-color: rgb(223, 48, 48);
+}

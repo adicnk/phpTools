@@ -1,0 +1,8 @@
+﻿VERSION BUILD=8820413 RECORDER=FX
+TAB T=1
+URL GOTO=http://addmefast.com/free_points/youtube_subscribe
+TAG POS=7 TYPE=SPAN ATTR=TXT:
+TAB T=2
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Abonați-văAbonat(ă)Dezabonaţi-vă
+TAB CLOSE
+TAB T=1
