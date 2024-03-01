@@ -1,0 +1,729 @@
+id,nim,nama_lengkap
+1,221005,Anida Aulia
+2,221006,Anisa Nurfadilah
+3,221007,Astri Ananda Putri
+4,221008,Cici Amelia
+5,221009,Dhevia Nurisa Pratama
+6,221010,Dila
+7,221011,Dini Mareta
+8,221012,Eka Meliyanti
+9,221013,Erik Haerul Fadilah
+10,221014,Grace Parfolin Mulli
+11,221015,Hasibuan Ela Aulia
+12,221016,Hilma Rachmawati
+13,221017,Imas Siti Khodijah
+14,221018,Indah Tiaranovelia
+15,221019,Intan Regina Putri
+16,221020,Laura Nur Fadillah
+17,221021,Linda Faulani
+18,221022,Maitsaa Meiliana Priatna Praja
+19,221023,Mohamad Fahreza Anugrah
+20,221024,Muhamad Yasir Sahroni
+21,221025,Muhammad Rijal Hidayat
+22,221026,Mulyadi Ikhsan
+23,221027,Nadya Nazwa Nurrandy
+24,221028,Nurul Aulia Fajrin
+25,221029,Putri Audry Fernanda Kurnia
+26,221030,Rafli Muhamad Yamin
+27,221031,Salma Alya Azzahra Rotinsulu
+28,221032,Shindy Kartika Sari
+29,221033,Sofiah Sri Amalia
+30,221034,Sofiana Natasya
+31,221035,Taufik Hidayat
+32,221036,Tira Arrahman
+33,221037,Yuvinah
+34,221038,Yonatan Kuncoro
+35,221039,Adella Meilani
+36,221040,Ahmad Faisal Nur Firdaus
+37,221041,Alfina Salsabila
+38,221042,Ariel Sanria
+39,221043,Arwinda Agustin
+40,221044,Ashila Rahma Nurdiani
+41,221045,Azzahra Nurul Sakinah
+42,221046,Bunga Nurzanah
+43,221047,Dewi Mira Rezky
+44,221048,Dina Amalia Febriyanti
+45,221049,Diorifki Andriyanto
+46,221050,Ervina Susanto
+47,221051,Fauzan Ramdhani
+48,221052,Fitria Silviani
+49,221053,Gita Aulia Hapsari
+50,221054,Hanna Khoirunnisa
+51,221055,Hasbi Solehudin Hidayat
+52,221056,Indah Dia Aryani
+53,221057,Indira
+54,221058,Kartika Putri Utami
+55,221059,Melinda Sagita Futri
+56,221060,Muhamad Fauzan Firdaus
+57,221061,Muhamad Rafhi Yusuf
+58,221062,Muhamad Ropi
+59,221063,Muhammad Ridzki Sugiharta
+60,221064,Mutiara Fadilah
+61,221065,Najwa Apriliani Pajri
+62,221066,Putri Amanda Susandi
+63,221067,Rachma Catur Ningtyas
+64,221068,Rifki Muhamad Arsy
+65,221069,Sandi Tria Yasmin
+66,221070,Siti Anisah
+67,221071,Siti Hamidah
+68,221072,Sofyannanda Shandyka Cahyadi
+69,221073,Syifa Febrianti Kasturi
+70,221074,Taupik Hidayat
+71,221075,Wildan Fadli Arifin
+72,221076,Vebby Aulia Ilmawati Lisset
+73,221077,Yoshikawati
+74,221078,Agistha Tazqiroh
+75,221079,Ai Nurlatifah
+76,221080,Andrian Amanda Mulyana
+77,221082,Asep Suhada
+78,221083,Assyfa Nurobani
+79,221084,Benarti P. Hutasoit
+80,221085,Cherylin Nikita
+81,221086,Devi Audini
+82,221087,Dinda Sulystyawati
+83,221088,Fajar Sidiq
+84,221089,Firly Agung Rahmatullah
+85,221090,Gina Mustika
+86,221091,Hardiyanti Rahmani
+87,221092,Hana Yuliana Rahmayanti
+88,221093,Hilda Putri Riswanti
+89,221094,Intan Wulandari
+90,221095,Kharisma Adinda Putri
+91,221096,Laras Ajka
+92,221097,Lutfiyah Winoto
+93,221099,Muhamad Miftah Fadila
+94,221100,Muhammad Rizky
+95,221101,Muhamad Syafiq
+96,221102,N Qisty Yuliani
+97,221103,Neisya Happy Hsseltenia
+98,221104,Putri Destiany Aripin
+99,221105,Renalfhanisa
+100,221106,Retno Pujianti
+101,221107,Riad Hadinata
+102,221108,Saela Fitri Suryani
+103,221109,Sansa Anisa Nur Fatimah
+104,221110,Susi Nurhasanah
+105,221111,Syalman Arrosid Nur Nugraha
+106,221112,Szalsabiela Faridah Akmal
+107,221113,Tiara Reghina Puspitasari
+108,221114,Zeni Octaviani Syabina
+109,221115,Zulfa Nurfarida
+110,220089,Adi Khoerul Ramadhani
+111,220091,Ami Fatimah Azzahra
+112,220092,Anggi Ajeng Robiatussaadah
+113,220093,Anggi Rosita Dewi
+114,220094,Aureka Gumilang
+115,220095,Cindy Oktaviani
+116,220096,Dede Lidya Natalia
+117,220097,Devita Eka Fitriyani
+118,220098,Gina Qodriyah
+119,220099,Gugun Guntara
+120,220100,Herliana Risanty
+121,220101,Izni Saufa Nuragna
+122,220102,Juliani Ismawati
+123,220103,Karina Septiani
+124,220104,Lidya Rifayanti
+125,220105,Mohamad Jamalul Insan
+126,220106,Mohammad Ammier Maulana
+127,220107,Monika Agustin
+128,220108,Muhamad Razzaq Nurhakim
+129,220109,Nisa Komalawati
+130,220110,Nisa Nur Fadilah
+131,220111,Novi Septiani Safitri
+132,220112,Nurbani Nabila Az Zahra
+133,220113,Nurhayati
+134,220114,Omah Bintang
+135,220115,Putri Hasna Azizah
+136,220116,Ratna Yuliyawati
+137,220117,Rida Dwi Agustin
+138,220118,Rifki Mohamad Fauzi
+139,220119,Rifma M. Faturrohman
+140,220120,Riri Lukman Oktavia
+141,220121,Salsa Nafarila Mahmud
+142,220122,Sella Rospita Sari
+143,220123,Shafilla Noer Hasya
+144,220124,Shofhiyya Amalia Rahmah
+145,220125,Silman Juwana Wijaya
+146,220126,Sri Marwa Munifah
+147,220127,Syah Zhihan Alvyana
+148,220128,Thessa Bellia Azmi
+149,220129,Via Agustin Tri Rahmawati
+150,220130,Virza Sukma Ayu Pratami
+151,220131,Willy Muliasari
+152,220132,Zihan Hermansyah
+153,220133,Dilla Syahrani
+154,220045,Abdi Yono
+155,220046,Alvin Muhammad Fauzi
+156,220047,Ananditha Zahra Nugraha
+157,220050,Atika Nur Vicry
+158,220051,Ayu Waika
+159,220052,Chinta Musfirah
+160,220053,Cici Siti Nurjanah
+161,220055,Darren Jeremies Manginsela
+162,220056,Dena Pasa Pitri Yani
+163,220057,Diny Fryoktavia Cahyandy
+164,220058,Fahmi Zailani
+165,220059,Gilang Cahyani
+166,220060,Hafid Nurochman Ibrahim
+167,220061,Ina Hardiani
+168,220062,Julia Siska Anggraeni
+169,220063,Kaila Zita Adia
+170,220064,Kristiyanti Rukhmana
+171,220065,Liana Indriyanti
+172,220066,Lusita Nur Hanafiah H
+173,220067,Maulinda Rizki Pratiwi P
+174,220068,Mochamad Andi Yusuf
+175,220069,Nazla Mahaputri Diandra Apriyanto
+176,220070,Nazwa Noer Awalia
+177,220071,Nesha Sabila
+178,220072,Nelis Fujiyanti
+179,220074,Nurul Pebrianti
+180,220075,Paisal Mubarok
+181,220076,Popi Bunga Ropikoh
+182,220078,Rista Rismawati Nurpratiwi
+183,220079,Sheilla Rahma Niansyah
+184,220081,Sindi Mulia
+185,220082,Siti Pujiyati Hastuti
+186,220083,Syakira Noer Falah
+187,220084,Sylvie Kartika Sari
+188,220085,Vina Aulia Armadinata
+189,220086,Vita Nurmala
+190,220087,Wildan Saepurohman
+191,220088,Yudistian Anggi
+192,220134,Deva Ramdes Fitrianna
+193,219013,Ghina Kurniawati Sutarli
+194,219078,Reyna Nazela Oktiyana
+195,220001,Adam Maulana
+196,220002,Agung Nugraha
+197,220003,Alya Nur Fauzyah
+198,220004,Anisa Pujiyanti
+199,220005,Anti Sakinah
+200,220006,Bela Desiani
+201,220007,Chyntya Sefty Fuziadi
+202,220008,Cindy Nursafitri
+203,220009,Dela Nursyamsiah
+204,220010,Dheani Juliasry
+205,220011,Elisa Nurazizah
+206,220012,Fika Puspitasari
+207,220013,Hasbi Muzhaffar Al Amin
+208,220014,Hilman Firmansyah
+209,220015,Isnaini Dian Safitri
+210,220016,Jesica Venora Sariwating
+211,220017,Karen Okta Pradila
+212,220018,Krisna Segara
+213,220019,Levina Lisdayanti
+214,220020,Lisma Nurlaila
+215,220021,Melli Yulianti
+216,220022,Mohamad Chandra Wiguna
+217,220023,Nadia Dwi Novianti
+218,220024,Nisa Nurul Izza Sahyan
+219,220025,Novia Tri Utami
+220,220026,Opy Nurfadhila
+221,220027,Pitriyani
+222,220028,Rafly Nurholis S
+223,220029,Risma Nur Afinie
+224,220030,Rivan Mohamad Fauzan
+225,220031,Rizka Cendekia
+226,220032,Salma Attiyah
+227,220033,Salsabila
+228,220034,Silpi Rosmalenda Dewi
+229,220035,Silvy Nurhayati
+230,220037,Susi Nur Syifa
+231,220038,Tati Suryati
+232,220039,Tiara Nuraliah
+233,220040,Via Septiani Pertiwi
+234,220041,Vina Rosdiana
+235,220042,Wildan Sofyan Darlina
+236,220043,Winda Nurjanah
+237,220044,Yustiaz Iqlima Putri Ayu Suryawan
+238,219001,Ade Irma Suryani
+239,219002,Adelia Puspita Sari
+240,219003,Ameliya Salsabila Rahman
+241,219004,Anisa Marga Rettha Audria
+242,219005,Bayu Hadi Rismawan
+243,219006,Delia Puspita Megantara
+244,219007,Deliana Caroline Tourista
+245,219010,Fauzi Abdulloh Al Mubarok
+246,219011,Febby Padhilah Nuraini
+247,219012,Fina Fauziah Chilyatuszulfa
+248,219014,Hafijah Puji Utami
+249,219015,Hisnudin Lutpi
+250,219016,Inggrit Maulidia
+251,219017,Julia Mega Utami
+252,219018,Kiki Sri Wahyuni
+253,219019,Lifia Putri Setiawan
+254,219020,Luthfi Latifah
+255,219022,Mochammad Rafi Firmansyah
+256,219023,Nia Siti Nurbaniah
+257,219024,Nindi Mastriyani
+258,219025,Nindya Allenda
+259,219027,Nugraha Supratman
+260,219028,Olga Nurulita
+261,219029,Ramlan Hapid Ibrahim
+262,219030,Ratna Pertiwi
+263,219031,Rena Marcela
+264,219032,Risna Rahmawan
+265,219033,Rival Ghipari
+266,219034,Rizki
+267,219035,Salman Firmansah
+268,219036,Sari Ratna Dewi
+269,219038,Syifa Fauziah
+270,219039,Syifa Nurillah
+271,219040,Vella Anggeria
+272,219041,Wawat Wati Rosmayanti
+273,219042,Widi Fadilah Damayanti
+274,219043,Widya Mulyasari
+275,219044,Wilfi Nur Azizah
+276,219045,Wina Widaningsih
+277,219046,Yandi Suherlan
+278,219047,Achmad Syalim Effendi
+279,219048,Ade Achmad Saufy
+280,219049,Aditya Rizky Nurfadillah
+281,219051,Anisa Nur Fitriana
+282,219052,Annisa Putri
+283,219053,Armia Husni Hidayati
+284,219054,Arviansyah Wiguna
+285,219055,Cica Rosita Sari
+286,219056,Della Marsela
+287,219057,Deni Ramdani
+288,219058,Dina Herliana
+289,219059,Dini Inayah
+290,219060,Eva Artiawati
+291,219061,Firda Yunisa
+292,219062,Fitri Ramalia
+293,219063,Friska Aprilianti
+294,219064,Ginti Nur Sapitri
+295,219065,Imelda Dinesti
+296,219066,Indah Rahayu Aprila
+297,219067,Indri Ramadanti
+298,219068,Levya Afriliza Permana Putri
+299,219069,Maulani Nurlatifah
+300,219070,Musopi Nuriyah
+301,219071,Muhammad Syadam Rizki Pahlevi
+302,219072,Novi Rahma Ningrum
+303,219073,Novianti Isnaeni
+304,219074,Novianti Latifah
+305,219075,Novita Anggie
+306,219076,Nurazizah Hanifah
+307,219077,Nurzalillah Listiana
+308,219080,Riska Aditia
+309,219081,Risma Anggraeni
+310,219082,Sandi Sopian
+311,219083,Shinta Nurjanah
+312,219084,Siti Nurbaeti Hasanah
+313,219085,Siti Nur Hafsanah Adeliani
+314,219086,Syafira Nurlaili
+315,219087,Tia Sopianti
+316,219088,Tini Aprillia Lesmana
+317,219090,Wineu Aini Wulandari
+318,219091,Wulan Puspita Anggia
+319,219092,Yukifanie Nurdyani
+320,219093,Yumelia Rahayu
+321,219094,Zaki Arif Sholeh
+322,218129,Arip Nur Pauzan
+323,218001,Aditya Aprizal Rizkiawan
+324,218002,Ahmad Riyan Hidayatulloh
+325,218003,Alifvia Fitri Zahira
+326,218004,Andre Aulia Ridwan
+327,218005,Annida Fajriatul Huda
+328,218007,Desy Havana Erlianti
+329,218008,Dieni Fatimatussyaadah
+330,218009,Dwilia Rismayanti
+331,218010,Elvira Islahiyah Kamilah
+332,218011,Eva Kristiani Br Ginting
+333,218012,Fanny Nadya Alawiyah
+334,218013,Gilang Adhitya Fernanda
+335,218014,Helmia Amri
+336,218015,Ihda Al Husnayain
+337,218016,Inayaturrohmah
+338,218017,Indri Irmaniyanti
+339,218018,Karina Septiani
+340,218019,Ligar Widiani Sopia
+341,218020,Maram
+342,218021,Melania Nurrul Safitri Mustofa
+343,218022,Melda Wiguna
+344,218023,Mira Puri Pratiwi
+345,218024,Nada Ismita Hawa
+346,218025,Nauva Ulvah Khoeriah
+347,218026,Neng Milawati
+348,218027,Nita Kartini
+349,218028,Noor Aziziyyah
+350,218029,Pani Nur Padilah
+351,218030,Putri Hilda Octaviani
+352,218031,Rahmat Awaludin
+353,218032,Restu Widi Pamulya
+354,218033,Rika Puji Astuti
+355,218034,Rizka Hadi Lestari
+356,218035,Salma Haurani
+357,218036,Silvi Maelinda Junaedi
+358,218037,Siti Rohmawati
+359,218038,Syahriel Fasha
+360,218039,Tiara Dwi Suntari
+361,218040,Ulfia Nur Malihah
+362,218041,Windawati
+363,218043,Wulansari Kurniasih
+364,218044,Agress Septy
+365,218046,Alza Patra Kurdian
+366,218047,Andri Dwi Pranata
+367,218048,Aprila Sri Dewi Purnama
+368,218049,Augies Maziatul Husna
+369,218050,Denisa Septiani
+370,218051,Diny Sri Meilany
+371,218052,Eka Suryani
+372,218054,Evi Karlina
+373,218055,Farhan Malik Ibrahim Safrudin
+374,218056,Habibah Dwi Aryanti
+375,218057,Herudin Firmansyah
+376,218060,Khuznul Maysharoh Khotimah
+377,218061,Lisda Aryani
+378,218062,Marwah Denda Fitriana
+379,218063,Melinda Patricia Ridzki
+380,218064,Melliana
+381,218065,Muhamad Ihsan Arief Gusriana
+382,218066,Nabila Triefitriani Arief
+383,218067,Neilathifa Febrike
+384,218068,Nirani Rahayu Utami
+385,218069,Nona Nabilah Zerlinda
+386,218070,Noor Azmii Fajria Setiawan
+387,218071,Pudja Antika Julianti
+388,218072,Putri Oktavia Hasim
+389,218073,Rani Nuraeni
+390,218074,Retno Lestari
+391,218075,Risa Livianti
+392,218077,Selly Marselina
+393,218078,Sisni Haerani Yurandini
+394,218079,Sophia Apriliani
+395,218080,Sunandi Mardesta
+396,218081,Tita Daulati
+397,218082,Vega Ershanda Cahyani
+398,218083,Wildanissifa
+399,218084,Wini Widiyanti
+400,218085,Yori Milanda
+401,218130,Sifa Mulyani
+402,321065,Agung Wibowo
+403,321066,Ai Isma Awaliyah
+404,321067,Aisah Nurhasanah
+405,321068,Andalis Munawaroh Aisyah
+406,321069,Daniati Fitria Nita
+407,321070,Dede Widayanti
+408,321071,Desi Rahmawati Saumi
+409,321072,Dimas Agung Pratama
+410,321073,Dita Ayu Lestari
+411,321074,Dita Zharifah
+412,321075,Elah Eliawati
+413,321076,Gian Anggiani
+414,321077,Ira Endah Siti Maesyaroh
+415,321078,Isma Melina
+416,321079,Liedya Fitriani
+417,321080,Melvi Sulistiawati
+418,321081,Muhammad Ichsan
+419,321082,Novita Dwi Rahmayanti
+420,321083,Nungky Kusdiana Dewi
+421,321084,Restu Fujaswati Nur
+422,321085,Rika Meidarahman
+423,321086,Siska Putri Nur Faidah
+424,321087,Siti Mardiah
+425,321088,Syarifah Nisrina
+426,321089,Syifa Nurfalah
+427,321090,Vini Novianti
+428,321091,Yugi Bahtiar Efendi
+429,321092,Nandi Sunandar Sunarya
+430,321093,Dwi Nurul Kamilah
+431,321094,Nurhasanah Dwi Agustini
+432,321095,Jaka Bhinekas
+433,321096,Dikdik Iskandar Dwiyanto
+434,321097,Mochamad miftah hakim
+435,321033,Anisa Rizki Rohimah
+436,321034,Anita Widya Amri
+437,321035,Annisa Dwi Putri
+438,321036,Astri Nurfitri Rahayu
+439,321037,Cecep Imam Hardiansyah
+440,321038,Cindio Vega Meylany
+441,321039,Dede Nita Herdiana
+442,321040,Devi Alfah
+443,321041,Ega Rahma Wati
+444,321042,Elin Wibowo
+445,321043,Eva silpia
+446,321044,Ghina Shonia Syahla Dewi
+447,321045,Iis Krisnadiati
+448,321046,Indah Lismawati
+449,321047,Indah Reni Stiyani
+450,321048,Ira Santika
+451,321049,Julpa Oktapiani
+452,321050,Lovita Sari
+453,321051,Marlia Putri Nengsih
+454,321052,Maulidifah Amanda Cahyani
+455,321053,Muhammad Dandi Pratama
+456,321054,Neng Anisa Nur Fitriah
+457,321055,Novia Nurmawati
+458,321056,Paramitha
+459,321057,Rani Fitria
+460,321058,Rhena Fitriyani Ramdhania
+461,321059,Risma Medianty Zakiyah
+462,321060,Sabrina Preannisa
+463,321061,Titis Lisalsabila
+464,321062,Triessa Riandani
+465,321063,Wisnu Ramadita
+466,321064,Yani Septyani
+467,321098,Rianti Agustina
+468,321001,Aan Jubaedah
+469,321002,Ai Maesaroh
+470,321003,Ani Rahmawati
+471,321004,Annisa Nur Fadilah
+472,321005,Aulia Rachma
+473,321006,Auliya Ulul Azmi
+474,321007,Bella Nirmala Octaviani
+475,321008,Cika Biolani
+476,321009,Dea Amelia Meilani
+477,321010,Dewi Aprilianti
+478,321011,Eka Retno Wulandari
+479,321012,Febby Astrie Susanti
+480,321013,Frida Mailani
+481,321014,Indah furiani
+482,321015,Intan Citrawati
+483,321016,Lisa Lusiana Haerunnisa
+484,321017,Lucky Putra Pamungkas
+485,321018,Mauly Ramdiani Iriyanti
+486,321019,Mila Yunisa Nurantika
+487,321020,Neng Sahar Solihat
+488,321021,Novia Sri Rahmayanti
+489,321022,Prian Novelia Putri Utami
+490,321023,Restie Anggraeni
+491,321024,Rias Sri Utami
+492,321025,Rizky Yudha Nugraha
+493,321026,Rizqia Mutiara Putri
+494,321027,Sahrul Ramadhan
+495,321028,Siti Nurcahyani
+496,321029,Tri Isdianty
+497,321030,Widiana Muliati Rosadi
+498,321031,Yayu Handayani Syaidar Putri
+499,321032,Yuki Nuryanti
+500,321099,Nisa Nura'eni Jamilah
+501,121001,Adisti Natasya Salsabila
+502,121002,Ajeng Dwi Ratnasiwi
+503,121003,Alni Mukimassari
+504,121004,Annisa Nur Sabilla
+505,121005,Azni Mustika Mauliddiniah
+506,121006,Bayu Putro Pratomo
+507,121007,Devi Septianti
+508,121008,Dila Maharani
+509,121009,Elvira Tresna Mustika
+510,121010,Igna Hiasi Nanda
+511,121011,Hanny Nurlatifah
+512,121012,Imas Siti Sopariyah
+513,121013,Januar Dwi Ramadhan
+514,121014,Kanaya Sifana Dewi Utami
+515,121015,Linda Febrianti
+516,121016,Nailya Silva Tania
+517,121017,Nita Puspita Yuliani
+518,121018,Noviawati
+519,121019,Putri Ainur Rahayu
+520,121020,Rayndra Farsha Ayalla
+521,121021,Restya Agustina Pradila
+522,121022,Rippan Sobana
+523,121023,Rizkya Fazrya Rahmadita
+524,121024,Sherly Putri Novenza
+525,121025,Siti Nur Jamilah
+526,121026,Teguh Nurisman
+527,121027,Tiara Pramesti Hermawan
+528,121028,Tria Nuraliza
+529,121029,Virra Septiani Hasanah
+530,121030,Yulia Nuroktaviani
+531,121031,Mohamad Bagoes Himatul Iman
+532,121032,Afifah Hulu
+533,121033,Agniya Farras Az-Zahra
+534,121034,Alma Damar Sujati
+535,121035,Andika Permana
+536,121036,Annisa
+537,121037,Astri Novianti
+538,121038,Deniyati
+539,121039,Difan Fasli
+540,121040,Eko Zaenal Abidin
+541,121041,Ilham Faisal Herdian
+542,121042,Ineu Nurjanah
+543,121043,Jihan Fasya Alifa
+544,121044,Khanza Alifa Inaya Furqon
+545,121045,Melisa Alpiani
+546,121046,Nina Marthiana
+547,121047,Novianita
+548,121048,Putri Fauziah
+549,121049,Putri Azzahra Kirani
+550,121050,Raisya Zahra Syifa
+551,121051,Regina Shintia Dewi
+552,121052,Rhisma Nurbaetilah
+553,121053,Riri Mulyana Dewi
+554,121054,Rosmawati
+555,121055,Shofia Ghariza
+556,121056,Solihah Al Noor Permana
+557,121057,Tia Vega Lestari
+558,121058,Tina Vebrianti
+559,121059,Triya Siti Rahayu
+560,121060,Wulandari
+561,121061,Anggela Amelia Putri
+562,120001,Ade Sugih
+563,120002,Aas Nurhayati
+564,120003,Adila Nurhikmah
+565,120004,Agni Nuryantika
+566,120005,Aisyah Nur Fazri
+567,120006,Ajeng Putri
+568,120007,Alfina Septrianti
+569,120008,Apriliani Damayanti
+570,120009,Asep Wahyu
+571,120010,Bunga Meira Mawarni
+572,120011,Dena Mulyana
+573,120012,Dewi Gustini
+574,120013,Dimas Maulana Shiddiq Juhana
+575,120014,Dita Mutiara Dewi
+576,120015,Elsa Nopiyanti Putri
+577,120016,Enur Siti Komariah
+578,120018,Ganisya
+579,120019,Hasnaini Tsania Putri
+580,120020,Intan Irawati
+581,120022,Kartika Nopia Diwi
+582,120023,Pitri
+583,120024,Rani Mustika Sari
+584,120025,Regita Adhria Eka Putri
+585,120026,Regita Gustiani
+586,120027,Reni Apriani
+587,120028,Rihantini
+588,120029,Rika Diana Nurdaniyah
+589,120030,Risma Novanti
+590,120031,Rista Nur Apriliani
+591,120032,Rita Wulan Syahputri
+592,120033,Sandi Sahidan
+593,120034,Sania Rizky Syamsudin
+594,120035,Sarah Nurahmah
+595,120036,Shella Mozza Azzahra
+596,120037,Sinta Apriyani
+597,120038,Siti Najawiah
+598,120039,Sofi Khoerunisa
+599,120040,Sri Ayu Rediani
+600,120041,Susi Lestari
+601,120042,Tita Martini
+602,120043,Tri Novitara Armaiti
+603,120044,Vany Rachmawati
+604,120045,Wanda Fatmatul Hikmah
+605,119001,ADELIA JANUWATI
+606,119002,Aisy Hanifah
+607,119005,Anggita Nurshabira
+608,119006,Anisa Nurfadilah
+609,119007,Annisa Andiani Putri
+610,119008,Cici Lestari
+611,119009,Darnis Sari Mukti
+612,119011,Deana Melly Fitriyani
+613,119013,Erika Putri Efendi
+614,119014,Faisa Salsabila
+615,119015,Fanny Imanti
+616,119016,Febri Ray Anggraeni
+617,119017,Gina Nuraida
+618,119018,Ilda Fitria Miranda
+619,119019,Layla Yulianty Noorsetiawan
+620,119020,M Rizki Jajuli
+621,119021,Melanie Sari Oktavia
+622,119022,Naurah Fera Nursyifa
+623,119023,Neng Hecca Yulistia
+624,119025,Pipit Nurjuwita
+625,119026,Ramina Patya
+626,119027,Rifqi Fazal Azzi Dipura
+627,119028,Rina Siti Mariana
+628,119029,Selina Septianti
+629,119030,Shanty Khotimah
+630,119031,Shanti Rizky M Rahayu
+631,119032,Sovie Shafira Dewi
+632,119033,Syifa Nur Annisa
+633,119034,Titania Citra Hizqia
+634,119035,Widdya Syafrina
+635,118005,Cecep Ramdan Sholihin
+636,119036,Anisa Fitria Astuti
+637,119037,Annisa Nur Shabrina
+638,119038,Aprilia
+639,119039,Arifin Nur Alam
+640,119040,Atikah Kurniawati
+641,119041,Aulia Choerunisa
+642,119042,Cici Sumarni
+643,119043,Dinda Destriani
+644,119044,Dini Alifvia Putri
+645,119045,Dita Rabiatul Adawiyah
+646,119046,Elsa Berlian Melania
+647,119049,Fudji Nurfazriyah
+648,119050,Helnida Ulan Sari
+649,119051,Irvadilah Nur Aprilianti
+650,119052,Lidya Nisa
+651,119053,Mirna Nur Azizah
+652,119054,Muhammad Iqbal Assyidiq
+653,119055,Nike Kristhalia
+654,119056,Novita Rahmawati
+655,119057,Nurul Kharisma Yoisangadji
+656,119058,Nurul Khusna Putri Pratama
+657,119059,Puji Awalia Nurul Aeni Wahida
+658,119060,Reno Arfiansyah
+659,119062,Rosita Limatahu
+660,119063,Shely Agustin
+661,119064,Sinta Agustin
+662,119065,Siska Wulandari
+663,119066,Siti Hasanah
+664,119068,Yeni Rumyani
+665,220077,Rindi Febriyanti
+666,220090,Ai Lina Lestari
+667,220048,Anggia Putri
+668,220054,Cindy Surya Pramudita
+669,220049,Annissa Fitria
+670,220036,Sinta Nopiyanti
+671,220073,Nur Ulfaturrohmah
+672,220080,Silva Ainunnisa
+673,218087,Ajeng Nuraeni Safitri
+674,218088,Aliya Nurul Hasanah
+675,218089,Amelia Hafsari
+676,218090,Anita Hidayat Putri
+677,218091,Aprilia Sucianti
+678,218092,Bhika Djamiri
+679,218093,Deri Cahya Ramdani
+680,218094,Desti Hijriani
+681,218095,Dian Alvita Dinanti
+682,218096,Dita Sakila Tiwi
+683,218097,Eda Rosita
+684,218098,Elsa Dewi Mulyati
+685,218099,Erisa Paujiah Yusup
+686,218100,Evita Herdiyanti
+687,218101,Fanny Dwi Irfayani
+688,218102,Firlan Sastra Diriyan
+689,218103,Hemel Prayoga
+690,218105,Krisna Rizaldi Rahayu
+691,218106,Mia Ipana
+692,218107,Mutia Girly Santika
+693,218108,Nadia Khofifah
+694,218110,Nomi Hernawati
+695,218111,Noni Indriyani
+696,218112,Nur Shofa Salsabila
+697,218113,Puteri Qolbu Fajarianne
+698,218114,R. Sofwan Muzakki Sendjaya
+699,218115,Rezkya Zalsabila
+700,218116,Riani Wulandari
+701,218117,Risna Nuramalia
+702,218118,Sabar Nurhayati Sihombing
+703,218119,Shinta Indraswati
+704,218121,Suci Fuji Ginayah
+705,218122,Tasya Tasharofa
+706,218124,Verawati Sanjaya
+707,218125,Willa Rizki Amalia
+708,218126,Winia Noviyanti
+709,218127,Yunia Julianti
+710,218128,Zihan Maulida Nashriyah
+711,217111,Hendi Wardani Lumbantoruan
+712,218045,Aisyah Mansur
+713,218058,Ina Swalina
+714,218076,Rmawati Muhamad Nur
+715,218109,Neneng Sona Sonia
+716,218120,Siti Ayu Apari
+717,218123,Tiwy Putri Ananda
+718,218104,Iis Mulyani
+719,218086,Agung Miftahrudin
+720,218006,Asep Kamal Muarip
+721,119004,ANDRI PRATAMA SAPUTRA
+722,119010,DAVID WAHIDURAHMAN
+723,119012,"EGARISA BR, SURBAKTI"
+724,119024,NURUL KUSUMAWARDANI
+725,119048,FRANSISKA AGNESIA FEBRIANTI
+726,119061,RISMA SURYANI
+727,119067,SITI NURJANAH
+728,120021,INTAN PAZRIATURROHMANA

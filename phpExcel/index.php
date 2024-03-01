@@ -28,8 +28,8 @@
 	</style>
  
 	<?php
-	header("Content-type: application/vnd-ms-excel");
-	header("Content-Disposition: attachment; filename=Data Peminjaman 2020-2024.xls");
+	//header("Content-type: application/vnd-ms-excel");
+	//header("Content-Disposition: attachment; filename=Data Peminjaman 2020-2024.xls");
 	?>
  
 	<center>
